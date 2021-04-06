@@ -23,6 +23,7 @@ cd contractions
 python setup.py install
 ```
 <br/>
+
 ### Method - 3: Pip install with github
 
 ```
