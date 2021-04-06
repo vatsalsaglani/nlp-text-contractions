@@ -8,15 +8,22 @@ A Python package to replace some english words with their shorter versions (cont
 
 <br />
 
-### Method - 1: Clone and Install
+### Method - 1: Install via PyPi
+```
+pip install NLPContractions
+```
+PyPi [Project Link](https://pypi.org/project/NLPContractions/)
+<br />
+
+### Method - 2: Clone and Install
 
 ```
 git clone https://github.com/vatsalsaglani/nlp-text-contractions.git
 cd contractions
 python setup.py install
 ```
-
-### Method - 2: Pip install with github
+<br/>
+### Method - 3: Pip install with github
 
 ```
 pip install git+https://github.com/vatsalsaglani/nlp-text-contractions.git
